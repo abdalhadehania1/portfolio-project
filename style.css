@@ -1,0 +1,23 @@
+
+body {
+    font-family: Arial, sans-serif;
+    max-width: 900px;
+    margin: 40px auto;
+    padding: 20px;
+    background-color: #f7f8fa;
+    color: #202938;
+    line-height: 1.6;
+}
+
+header {
+    margin-bottom: 40px;
+}
+
+nav {
+    display: flex;
+    gap: 20px;
+}
+
+a {
+    color: #24558c;
+}
