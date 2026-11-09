@@ -15,3 +15,6 @@ A simple portfolio website for the Software Engineering practical course.
 
 ## Author
    Abd Al Hade Hania  
+
+## Release
+Version 1.0 includes the portfolio pages and blog.
